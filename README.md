@@ -1,2 +1,4 @@
 # Septa_Unella_Bot
-My first Arduino project - A little bot that, when triggered, rings a bell and prints "SHAME!" to an LCD display.
+
+My first Arduino project - A little bot to impersonate GoT's greatest character: Septa Unella. When triggered, it rings a 
+bell and prints "SHAME! SHAME! SHAME!" to an LCD display.
